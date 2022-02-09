@@ -1,5 +1,4 @@
 
-```
 # Exercise-02d-Menu-and-HUD
 
 Exercise for MSCH-C220
@@ -22,4 +21,3 @@ Advanced features?
 
 ## Created by
 Edison Li
-```
